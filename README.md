@@ -1,8 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m @abisai7<br>🔭 I'm currently working at Ciancoders GT as part of the Enapsys Mexico outsourcing team, developing projects for GE Appliances Canada and Mabe Global.<br>🛠️I have experience working on projects with Python, DRF, Angular, Spring Boot, React and React Native.<br>
 
+## Website & Socials:
+[abisai.dev](https://abisai.dev)
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abisai-herrera/) 
 
 # 💻 Tech Stack:
