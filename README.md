@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @abisai7<br>🔭 I'm currently working at Ciancoders GT as part of the Enapsys Mexico outsourcing team, developing projects for GE Appliances Canada and Mabe Global.<br>🛠️I have experience working on projects with Python, DRF, Angular, Spring Boot, React and React Native.<br>
+👋 Hi, I’m @abisai7<br>🔭 I'm currently working at Ciancoders GT as part of the Enapsys Mexico outsourcing team, developing projects for GE Appliances Canada and Mabe Global.<br>🛠️Software Developer with proven experience in projects for Mabe Global, developing scalable web solutions for e-commerce across Latin America and Canada. Successfully led enhancements to administrative platforms for Casas del Migrante in Guatemala, improving data collection efficiency by over 70%. Skilled in Java, Python, JavaScript, HTML, and CSS, with strong emphasis on performance, usability, and code quality. Quick to adapt to new technologies and known for delivering innovative solutions in multidisciplinary teams. Currently seeking opportunities to contribute to impactful tech projects and grow in challenging environments.<br>
 
 ## Website & Socials:
 [abisai.dev](https://abisai.dev)
