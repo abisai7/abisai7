@@ -91,6 +91,3 @@ I am a **Software Developer** with proven experience in projects for global bran
 * 💼 **LinkedIn:** [linkedin.com/in/abisai-herrera](https://linkedin.com/in/abisai-herrera) * 📧 **Email:** [abisai.herrera@outlook.com](mailto:abisai.herrera@outlook.com)
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abisai7&show_icons=true&theme=radical" alt="Abisai's Github Stats" />
-</div>
