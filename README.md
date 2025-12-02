@@ -87,8 +87,8 @@ I am a **Software Developer** with proven experience in projects for global bran
 
 ## 📫 Connect with me
 
-* 📄 **Portfolio:** [abisaiherrera.com](https://tupaginaweb.com) * 📄 **Download CV:** [My Resume](/CV_DelmarAbisaiHerrera_EN.pdf)
-* 💼 **LinkedIn:** [linkedin.com/in/abisaiherrera](https://linkedin.com/in/tu-usuario) * 📧 **Email:** [contact@abisaiherrera.com](mailto:tu-email@ejemplo.com)
+* 📄 **Portfolio:** [abisai.dev](https://abisai.dev) * 📄 **Download CV:** [My Resume](https://abisai.dev/CV_DelmarAbisaiHerrera_EN.pdf)
+* 💼 **LinkedIn:** [linkedin.com/in/abisai-herrera](https://linkedin.com/in/abisai-herrera) * 📧 **Email:** [abisai.herrera@outlook.com](mailto:abisai.herrera@outlook.com)
 
 <br>
 <div align="center">
